@@ -1,0 +1,24 @@
+body {
+  background-color: #f1f1f1; }
+  body .gen {
+    display: flex;
+    flex-direction: row;
+    flex-direction: column; }
+    body .gen .cont {
+      margin: 20px auto;
+      display: flex;
+      flex-direction: column; }
+      body .gen .cont .screen {
+        width: 500px;
+        height: 150px;
+        background-color: bisque;
+        text-align: center; }
+      body .gen .cont button {
+        width: 30%;
+        margin: 10px auto; }
+  body .esp {
+    width: 30%;
+    height: 100px;
+    margin: 0 auto; }
+
+/*# sourceMappingURL=styles.css.map */

@@ -1,0 +1,37 @@
+body{
+    background-color:#f1f1f1;
+    .gen{
+        
+        display: flex;
+        flex-direction: row;
+        flex-direction: column;
+        .cont{
+            margin: 20px auto;
+            display: flex;
+
+            flex-direction: column;
+            .screen{
+                width: 500px;
+                height: 150px;
+                background-color: bisque;
+                text-align: center;
+                
+            }
+            button{
+                width: 30%;
+                margin: 10px auto ;
+            }
+        }
+    }
+.esp{
+    width: 30%;
+    height: 100px;
+    margin: 0 auto;
+    
+}
+    
+    
+
+}
+
+
